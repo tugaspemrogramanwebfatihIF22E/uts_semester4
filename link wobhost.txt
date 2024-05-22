@@ -1,1 +1,5 @@
 https://fatihmffajrin21.000webhostapp.com/
+
+GOOGLE_CLIENT_ID=18893654787-bi1tndojvjhb0nd5fe1hsjppqhggqvuf.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+GOOGLE_REDIRECT=/oauth/google/callback
